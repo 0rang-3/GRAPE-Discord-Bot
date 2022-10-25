@@ -28,7 +28,9 @@ A discord bot with many fun features, including economy, utility, and interactiv
 
 ## Authors
 
-* [0rang-3]
+* [0rang-3](http://github.com/0rang-3)
+* [Mihirsur007](http://github.com/mihirsur007)
+* [Aahan Patel](http://github.com/aahan-patel)
 
 ## Version History
 
